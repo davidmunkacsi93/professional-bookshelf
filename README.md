@@ -14,9 +14,11 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - James Clear - Atomic Habits
 - Bill Burnett, Dave Evans - Designing your Work Life
 - Michael Kurth - Stell dir vor, du wachst auf: Die OOOO+X-Methode für mehr Präsenz und Klarheit im Leben
+- Don Miguel Ruiz - The Four Agreements
 
 ## Management
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+- Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 
 ## In Progress
 - Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
