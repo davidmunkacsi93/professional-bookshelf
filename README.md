@@ -3,7 +3,7 @@ Repository to keep track of my professional reading.
 
 ## Software Engineering
 - Robert C. Martin
--- Clean Code
+  - Clean Code
 
 ## Personal Growth
 - James Clear - Atomic Habits
