@@ -1,5 +1,5 @@
 # professional-bookshelf
-I've created this repository to track my professional reading. As a software engineering manager I try to keep balance between technical and soft skill books. Additionally I always read something that is not related to my work. I read both in English and in German, so don't be suprised because of the German titles :)
+I've created this repository to track my professional reading. As a software engineering manager I try to keep balance between technical and soft skill books. Additionally I always read something that is not related to my work. I read both in English and in German, so don't be surprised because of the German titles :)
 
 My goal is to read at least one book a month, which went pretty good in 2021. 2022 won't be much different ;)
 
