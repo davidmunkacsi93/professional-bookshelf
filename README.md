@@ -16,6 +16,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Michael Kurth - Stell dir vor, du wachst auf: Die OOOO+X-Methode für mehr Präsenz und Klarheit im Leben
 - Don Miguel Ruiz - The Four Agreements
 - Mark Manson - The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+- Héctor García, Francesc Miralles - Ikigai, The Japanese Secret to a Long and Happy Life
 
 ## Management
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
