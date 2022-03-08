@@ -9,6 +9,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
   - Clean Code: A Handbook of Agile Software Craftsmanship
   - The Clean Coder: A Code of Conduct for Professional Programmers
   - Clean Architecture: A Craftsman's Guide to Software Structure and Design
+- Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -23,7 +24,6 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 
 ## In Progress
-- Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
 - Jack Kornfield - The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology
 
 ## Coming soon...
