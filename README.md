@@ -25,10 +25,10 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 
 ## In Progress
 - Jack Kornfield - The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology
+- Ray Dalio - Principles: Life and Work
+- Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 
 ## Coming soon...
 - Marshall B. Rosenberg - Gewaltfreie Kommunikation: Eine Sprache des Lebens
-- Ray Dalio - Principles: Life and Work
-- Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 - Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz - Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery
 English edition  by 
