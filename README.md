@@ -19,17 +19,16 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Mark Manson - The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
 - Héctor García, Francesc Miralles - Ikigai, The Japanese Secret to a Long and Happy Life
 - Jack Kornfield - The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology
+- Dr Amishi P. Jha - Peak Mind
 
 ## Management
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
+- Ray Dalio - Principles: Life and Work
 
 ## In Progress
-- Ray Dalio - Principles: Life and Work
+- Dave Hendricksen - 12 Essential Skills for Software Architects
 - Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 
 ## Coming soon...
-- Dave Hendricksen - 12 Essential Skills for Software Architects
 - Marshall B. Rosenberg - Gewaltfreie Kommunikation: Eine Sprache des Lebens
-- Richard Bullington-McGuire, Andrew K. Dennis, Michael Schwartz - Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery
-English edition  by 
