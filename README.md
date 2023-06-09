@@ -10,6 +10,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
   - The Clean Coder: A Code of Conduct for Professional Programmers
   - Clean Architecture: A Craftsman's Guide to Software Structure and Design
 - Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
+- Dave Hendricksen - 12 Essential Skills for Software Architects
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -20,15 +21,17 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Héctor García, Francesc Miralles - Ikigai, The Japanese Secret to a Long and Happy Life
 - Jack Kornfield - The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology
 - Dr Amishi P. Jha - Peak Mind
+- Francis Fukuyama - Trust
+- Jacob Drachenberg - Stress dich Richtig
 
 ## Management
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 - Ray Dalio - Principles: Life and Work
+- Julie Zhuo - The Making of Manager
+- Sun Tzu - The Art of War
 
 ## In Progress
-- Dave Hendricksen - 12 Essential Skills for Software Architects
 - Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 
 ## Coming soon...
-- Marshall B. Rosenberg - Gewaltfreie Kommunikation: Eine Sprache des Lebens
