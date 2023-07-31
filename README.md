@@ -11,6 +11,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
   - Clean Architecture: A Craftsman's Guide to Software Structure and Design
 - Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
 - Dave Hendricksen - 12 Essential Skills for Software Architects
+- Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -32,6 +33,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Sun Tzu - The Art of War
 
 ## In Progress
-- Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
+- Yuval Noah Harari - 21 Lessons for the 21st Century
 
 ## Coming soon...
+- Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
