@@ -30,7 +30,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 - Ray Dalio - Principles: Life and Work
-- Julie Zhuo - The Making of Manager
+- Julie Zhuo - The Making of a Manager
 - Sun Tzu - The Art of War
 
 ## In Progress
