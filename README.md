@@ -24,6 +24,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Dr Amishi P. Jha - Peak Mind
 - Francis Fukuyama - Trust
 - Jacob Drachenberg - Stress dich Richtig
+- Yuval Noah Harari - 21 Lessons for the 21st Century
 
 ## Management
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -33,7 +34,7 @@ My goal is to read at least one book a month, which went pretty good in 2021. 20
 - Sun Tzu - The Art of War
 
 ## In Progress
-- Yuval Noah Harari - 21 Lessons for the 21st Century
+- Tom Peters, Robert H. Waterman - In Search of Excellence: Lessons from America's Best-Run Companies
 
 ## Coming soon...
 - Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
