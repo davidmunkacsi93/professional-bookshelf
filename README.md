@@ -1,7 +1,21 @@
 # professional-bookshelf
-I've created this repository to track my professional reading. As a software engineering manager I try to keep balance between technical and soft skill books. Additionally I always read something that is not related to my work. I read both in English and in German, so don't be surprised because of the German titles :)
 
-My goal is to read at least one book a month, which went pretty good in 2021. 2022 won't be much different ;)
+"As an Engineering Lead, my journey is driven by an unwavering pursuit of knowledge and personal growth. This repository serves as my haven, my 'Professional Bookshelf,' where I nurture my passion for learning and development, fueling my ambition to excel in my profession.
+
+**Reading Goal:**
+Within this virtual page, I curate the books that shape my professional evolution. It's not just a list; it's a testament to my commitment to becoming the best version of myself. Since 2021, my goal has been to read at least one book a month, both fiction and non-fiction. However, in this repository, I exclusively track books related to my career:
+
+- **Software Engineering:** Remaining technically proficient is essential for an effective engineering lead. My aim isn't to delve deeply into a single technology but to gain insight into a multitude of topics, broadening my knowledge horizontally.
+- **Management:** To become a better leader and manager.
+- **Personal Growth:** To become a better person, to better understand people.
+
+**Realization, Frustration, Acceptance:**
+My journey into reading has led me to recognize the vast expanse of knowledge that I have yet to explore. It's impossible to conquer this boundless sea of wisdom. While frustration initially accompanied this acknowledgment, I continue to learn (and perhaps always will) the art of acceptance. Each entry here signifies my ongoing journey.
+
+**Rapid Reading Technique:**
+Amidst the whirlwind of engineering leadership, time is a precious commodity. I've realized that my current reading speed limits me to one or two books a month. Therefore, in August 2023, I began experimenting with rapid reading techniques. Though still in the early stages, I've already witnessed minor improvements. I find myself more focused during reading, with a heightened ability to comprehend the text.
+
+My 'Professional Bookshelf' is my unwavering dedication to professional growth. Welcome to my world of continuous learning!
 
 ## Software Engineering
 - David Thomas, Andrew Hunt - The Pragmatic Programmer: journey to mastery
