@@ -40,15 +40,17 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Jacob Drachenberg - Stress dich Richtig
 - Yuval Noah Harari - 21 Lessons for the 21st Century
 
-## Management
+## Management & Entrepreneurship
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 - Ray Dalio - Principles: Life and Work
 - Julie Zhuo - The Making of a Manager
 - Sun Tzu - The Art of War
-
-## In Progress
 - Tom Peters, Robert H. Waterman - In Search of Excellence: Lessons from America's Best-Run Companies
 
-## Coming soon...
+## In Progress
+
 - Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
+
+## Coming soon...
+- TBD
