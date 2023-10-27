@@ -26,6 +26,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google: Lessons Learned from Programming Over Time
 - Dave Hendricksen - 12 Essential Skills for Software Architects
 - Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
+- Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -47,10 +48,10 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Julie Zhuo - The Making of a Manager
 - Sun Tzu - The Art of War
 - Tom Peters, Robert H. Waterman - In Search of Excellence: Lessons from America's Best-Run Companies
+- Niccolò Machiavelli - The Prince
 
 ## In Progress
-
-- Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
+- TBD
 
 ## Coming soon...
 - TBD
