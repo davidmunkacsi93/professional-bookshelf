@@ -40,6 +40,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Francis Fukuyama - Trust
 - Jacob Drachenberg - Stress dich Richtig
 - Yuval Noah Harari - 21 Lessons for the 21st Century
+- Josh Goldberg - Learning TypeScript
 
 ## Management & Entrepreneurship
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -51,7 +52,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Niccolò Machiavelli - The Prince
 
 ## In Progress
-- TBD
+- Gergely Orosz - The Software Engineer's Guidebook
 
 ## Coming soon...
 - TBD
