@@ -41,6 +41,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Jacob Drachenberg - Stress dich Richtig
 - Yuval Noah Harari - 21 Lessons for the 21st Century
 - Josh Goldberg - Learning TypeScript
+- György Csepeli - Awakening Values (original title: Értékek Ébresztése)
 
 ## Management & Entrepreneurship
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
