@@ -1,6 +1,6 @@
 # professional-bookshelf
 
-"As an Engineering Lead, my journey is driven by an unwavering pursuit of knowledge and personal growth. This repository serves as my haven, my 'Professional Bookshelf,' where I nurture my passion for learning and development, fueling my ambition to excel in my profession.
+As an Engineering Lead, my journey is driven by an unwavering pursuit of knowledge and personal growth. This repository serves as my haven, my 'Professional Bookshelf,' where I nurture my passion for learning and development, fueling my ambition to excel in my profession.
 
 **Reading Goal:**
 Within this virtual page, I curate the books that shape my professional evolution. It's not just a list; it's a testament to my commitment to becoming the best version of myself. Since 2021, my goal has been to read at least one book a month, both fiction and non-fiction. However, in this repository, I exclusively track books related to my career:
@@ -57,3 +57,10 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 
 ## Coming soon...
 - TBD
+
+## Courses/Trainings
+- Docker & Kubernetes: The Practical Guide (Udemy) – 14/01/2024
+- Ionic - Build iOS, Android & Web Apps with Ionic & Angular (Udemy) – 22/05/2022
+- Inspiring and Motivating Individuals (Coursera) – 22/03/2022
+- Managing Talents (Coursera) – 21/04/2022
+- Python for Finance: Investment Fundamentals & Data Analytics (Udemy) – 13/07/2021
