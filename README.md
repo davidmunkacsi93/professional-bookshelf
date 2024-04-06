@@ -27,6 +27,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Dave Hendricksen - 12 Essential Skills for Software Architects
 - Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 - Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
+- Gergely Orosz - The Software Engineer's Guidebook
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -53,7 +54,8 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Niccolò Machiavelli - The Prince
 
 ## In Progress
-- Gergely Orosz - The Software Engineer's Guidebook
+- Vladik Khononov - Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
+- David Noble, Carol Kauffman - Real-Time Leadership
 
 ## Coming soon...
 - TBD
