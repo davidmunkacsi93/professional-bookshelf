@@ -28,6 +28,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Brendan Burns, Joe Beda, Kelsey Hightower - Kubernetes: Up and Running
 - Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
 - Gergely Orosz - The Software Engineer's Guidebook
+- Vladik Khononov - Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -43,6 +44,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Yuval Noah Harari - 21 Lessons for the 21st Century
 - Josh Goldberg - Learning TypeScript
 - György Csepeli - Awakening Values (original title: Értékek Ébresztése)
+- Jon Kabat-Zinn - Wherever Yo Go, There You Are
 
 ## Management & Entrepreneurship
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -54,7 +56,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Niccolò Machiavelli - The Prince
 
 ## In Progress
-- Vladik Khononov - Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
+
 - David Noble, Carol Kauffman - Real-Time Leadership
 
 ## Coming soon...
