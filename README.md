@@ -60,7 +60,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - David Noble, Carol Kauffman - Real-Time Leadership
 
 ## Coming soon...
-- TBD
+- Martin Kleppmann - Design Data-Intensive Applications
 
 ## Courses/Trainings
 - Docker & Kubernetes: The Practical Guide (Udemy) – 14/01/2024
