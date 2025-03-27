@@ -62,7 +62,8 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Martin Kleppmann - Design Data-Intensive Applications
 
 ## Coming soon...
-
+- Alex Xu - System Design Interview
+- Derar Alhussein - Databricks Certified Data Engineer Associate Study Guide
 
 ## Courses/Trainings
 - Docker & Kubernetes: The Practical Guide (Udemy) – 14/01/2024
