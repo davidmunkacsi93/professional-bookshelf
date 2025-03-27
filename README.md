@@ -29,6 +29,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Josh Goldberg - Learning Typescript: Enhance Your Web Development Skills Using Type-safe Javascript
 - Gergely Orosz - The Software Engineer's Guidebook
 - Vladik Khononov - Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
+- Yves Hilpisch - AI in Finance
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -58,9 +59,10 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 ## In Progress
 
 - David Noble, Carol Kauffman - Real-Time Leadership
+- Martin Kleppmann - Design Data-Intensive Applications
 
 ## Coming soon...
-- Martin Kleppmann - Design Data-Intensive Applications
+
 
 ## Courses/Trainings
 - Docker & Kubernetes: The Practical Guide (Udemy) – 14/01/2024
