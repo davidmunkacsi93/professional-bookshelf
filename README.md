@@ -30,6 +30,8 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Gergely Orosz - The Software Engineer's Guidebook
 - Vladik Khononov - Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy
 - Yves Hilpisch - AI in Finance
+- Derar Alhussein - Databricks Certified Data Engineer Associate Study Guide
+- Martin Kleppmann - Design Data-Intensive Applications
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -47,7 +49,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - György Csepeli - Awakening Values (original title: Értékek Ébresztése)
 - Jon Kabat-Zinn - Wherever Yo Go, There You Are
 
-## Management & Entrepreneurship
+## Management & Leadership
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - Richard Branson - The Virgin Way: How to Listen, Learn, Laugh and Lead
 - Ray Dalio - Principles: Life and Work
@@ -55,19 +57,13 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Sun Tzu - The Art of War
 - Tom Peters, Robert H. Waterman - In Search of Excellence: Lessons from America's Best-Run Companies
 - Niccolò Machiavelli - The Prince
+- Jocko Willink - Leadership Strategy and Tactics, Field Manual
+- Ray Dalio - The Changing World Order
 
 ## In Progress
-
-- David Noble, Carol Kauffman - Real-Time Leadership
-- Martin Kleppmann - Design Data-Intensive Applications
+- Daniel Kahnemann - Thinking Fast and Slow
 
 ## Coming soon...
+- Chip Huyen - AI Engineering
 - Alex Xu - System Design Interview
-- Derar Alhussein - Databricks Certified Data Engineer Associate Study Guide
-
-## Courses/Trainings
-- Docker & Kubernetes: The Practical Guide (Udemy) – 14/01/2024
-- Ionic - Build iOS, Android & Web Apps with Ionic & Angular (Udemy) – 22/05/2022
-- Inspiring and Motivating Individuals (Coursera) – 22/03/2022
-- Managing Talents (Coursera) – 21/04/2022
-- Python for Finance: Investment Fundamentals & Data Analytics (Udemy) – 13/07/2021
+- David Noble, Carol Kauffman - Real-Time Leadership
