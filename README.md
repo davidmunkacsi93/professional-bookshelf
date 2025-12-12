@@ -62,8 +62,8 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 
 ## In Progress
 - Daniel Kahnemann - Thinking Fast and Slow
+- Chip Huyen - AI Engineering
 
 ## Coming soon...
-- Chip Huyen - AI Engineering
 - Alex Xu - System Design Interview
 - David Noble, Carol Kauffman - Real-Time Leadership
