@@ -32,6 +32,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Yves Hilpisch - AI in Finance
 - Derar Alhussein - Databricks Certified Data Engineer Associate Study Guide
 - Martin Kleppmann - Design Data-Intensive Applications
+- Chip Huyen - AI Engineering
 
 ## Personal Growth
 - James Clear - Atomic Habits
@@ -48,6 +49,7 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Josh Goldberg - Learning TypeScript
 - György Csepeli - Awakening Values (original title: Értékek Ébresztése)
 - Jon Kabat-Zinn - Wherever Yo Go, There You Are
+- Daniel Kahnemann - Thinking Fast and Slow
 
 ## Management & Leadership
 - Camille Fournier - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
@@ -61,8 +63,8 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Ray Dalio - The Changing World Order
 
 ## In Progress
-- Daniel Kahnemann - Thinking Fast and Slow
-- Chip Huyen - AI Engineering
+- ...
+
 
 ## Coming soon...
 - Alex Xu - System Design Interview
