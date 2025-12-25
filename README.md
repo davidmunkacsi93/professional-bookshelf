@@ -46,8 +46,10 @@ My 'Professional Bookshelf' is my unwavering dedication to professional growth. 
 - Francis Fukuyama - Trust
 - Jacob Drachenberg - Stress dich Richtig
 - Yuval Noah Harari - 21 Lessons for the 21st Century
-- Josh Goldberg - Learning TypeScript
+- Richard David Precht - Das Jahrhundert der Toleranz
 - György Csepeli - Awakening Values (original title: Értékek Ébresztése)
+- Wim Hof - Die Wim Hof Methode
+- Richard David Precht - Wer bin ich, und wenn ja, wie viele?
 - Jon Kabat-Zinn - Wherever Yo Go, There You Are
 - Daniel Kahnemann - Thinking Fast and Slow
 
